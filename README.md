@@ -2,6 +2,12 @@
 
 An open-source Flutter app template for Malayalam language learning games with Firebase backend and RevenueCat in-app purchases. This template provides a complete, production-ready foundation that you can fork and customize for your own app.
 
+## Showcase
+
+1. [pippidi.com](https://pippidi.com)
+2. [App Store](https://apps.apple.com/in/app/pippidi/id1663599178)
+3. [Play Store](https://play.google.com/store/apps/details?id=com.aneeska.pippidi.android.app)
+
 ## ✨ Features
 
 - 🎮 Interactive Malayalam language learning games
